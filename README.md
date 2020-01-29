@@ -24,4 +24,4 @@ The reservation system for rides through the reservation number of the free pass
 In the initial model, we thought that if we had member table and ride table, we would be able to load the reserved data, but if we didn't create a separate table, we would have to create a table that uses the time table ID as the key value.
 
 # Challenges
-We started without defining specific details among team members who shared the same table, DTO, and DAO, resulting in a number of revisions each time we shared the interim results.
+My team started without defining specific details about schema among team members. We shared same tables such as DTO, and DAO. I had to modify several times whenever we shared the interim results. To resolve the problem, I discussed with my team to redefine the schema properly.
